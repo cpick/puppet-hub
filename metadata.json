@@ -1,0 +1,14 @@
+{
+  "name": "cpick-hub",
+  "version": "0.1.0",
+  "author": "Chris Pick",
+  "summary": "Installs GitHub's hub tool from a PPA",
+  "license": "Apache 2.0",
+  "source": "https://github.com/cpick/puppet-hub.git",
+  "project_page": "https://github.com/cpick/puppet-hub",
+  "issues_url": "https://github.com/cpick/puppet-hub/issues",
+  "dependencies": [
+    {"name":"puppetlabs/apt","version_requirement":">= 2.0.0"}
+  ]
+}
+
