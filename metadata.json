@@ -1,6 +1,6 @@
 {
   "name": "cpick-hub",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Pick",
   "summary": "Installs GitHub's hub tool from a PPA",
   "license": "Apache 2.0",

@@ -1,4 +1,4 @@
-# gdebi
+# hub
 
 #### Table of Contents
 
